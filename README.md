@@ -1,5 +1,7 @@
 # Original Project
-<!--- text here--->
+The original project by CodePath featured a music recommendation system that read into a CSV and used calculations to recommend songs based primarily on energy and genre.
+
+The following is my own design decisions, the system authored by Claude.
 
 # Know Your New Favorite Songs At Every Age
 > *The title is based off the song *Know Who You Are At Every Age*, from the album **Four-Calendar Cafe** by Cocteau Twins.*
