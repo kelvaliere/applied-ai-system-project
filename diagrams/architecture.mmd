@@ -1,0 +1,26 @@
+flowchart TD
+    subgraph OFFLINE["Offline ingest (python -m src.rag.ingest)"]
+        H0([Human curates data/seed_albums.csv]) --> F[MusicBrainz, Wikipedia, Wikidata clients]
+        F -->|rate limit, retry, timeout| RAW[(data/raw cache)]
+        RAW --> X{Cross-check genres across sources}
+        X --> REC[(albums.jsonl: confidence + flags)]
+    end
+    subgraph ONLINE["Online (CLI / Streamlit)"]
+        U([2-5 favorite songs]) --> G1[Input guardrail]
+        G1 --> P[Resolve artist genres, build taste profile]
+        REC --> R[Retrieve + score every album]
+        P --> R
+        R --> G2{Enough similarity?}
+        G2 -->|no| NR[Say: not enough data]
+        G2 -->|yes| S[Diversity selection: 1 per artist, slots per song]
+        FB[(feedback + corrections)] --> R
+        S --> L[Claude writes descriptions from retrieved records]
+        L --> G3{Grounding check}
+        G3 -->|fail or no key| T[Template description]
+        G3 -->|pass| OUT
+        T --> OUT[Album, genre, why, description, confidence]
+    end
+    OUT --> H1([Human reviews flags, rates, corrects genres])
+    H1 --> FB
+    LOG[(logs/app.log)] -.-> ONLINE
+    TESTS[pytest: crosscheck, ranking, guardrails, grounding] -.-> ONLINE

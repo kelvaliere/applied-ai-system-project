@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.DS_Store
+.env
+logs/
+data/feedback.jsonl
+data/corrections.jsonl
+data/discovered.jsonl

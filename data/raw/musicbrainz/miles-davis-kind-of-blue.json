@@ -1,0 +1,14 @@
+{
+ "mbid": "8e8a594f-2175-38c7-a871-abb68ec363e7",
+ "title": "Kind of Blue",
+ "year": "1959",
+ "genres": {
+  "cool jazz": 7,
+  "hard bop": 3,
+  "jazz": 28,
+  "modal jazz": 4,
+  "post-bop": 2
+ },
+ "rating": 4.45,
+ "votes": 43
+}

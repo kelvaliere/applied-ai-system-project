@@ -1,0 +1,17 @@
+{
+ "mbid": "416bb5e5-c7d1-3977-8fd7-7c9daf6c2be6",
+ "title": "Rumours",
+ "year": "1977",
+ "genres": {
+  "blues": 6,
+  "blues rock": 2,
+  "classic rock": 2,
+  "folk pop": 4,
+  "folk rock": 1,
+  "pop rock": 10,
+  "rock": 14,
+  "soft rock": 10
+ },
+ "rating": 4.3,
+ "votes": 37
+}

@@ -1,0 +1,17 @@
+{
+ "mbid": "2e52bd6a-53e6-325c-925b-19eaa449db44",
+ "title": "Metaphorical Music",
+ "year": "2003",
+ "genres": {
+  "cool jazz": 2,
+  "downtempo": 1,
+  "electronic": 1,
+  "hip hop": 4,
+  "instrumental hip hop": 1,
+  "jazz": 1,
+  "jazz rap": 1,
+  "trip hop": 1
+ },
+ "rating": 3.5,
+ "votes": 3
+}

@@ -1,0 +1,13 @@
+{
+ "mbid": "48140466-cff6-3222-bd55-63c27e43190d",
+ "title": "Dummy",
+ "year": "1994",
+ "genres": {
+  "acid jazz": 1,
+  "downtempo": 1,
+  "electronic": 3,
+  "trip hop": 19
+ },
+ "rating": 4.4,
+ "votes": 33
+}

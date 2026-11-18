@@ -1,0 +1,16 @@
+{
+ "mbid": "09c88c6d-090e-378d-b104-7966eb5d33d2",
+ "title": "The Idiot",
+ "year": "1977",
+ "genres": {
+  "art rock": 3,
+  "garage rock": 2,
+  "industrial rock": 1,
+  "new wave": 2,
+  "post-punk": 1,
+  "punk": 2,
+  "rock": 4
+ },
+ "rating": 3.85,
+ "votes": 6
+}

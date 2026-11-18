@@ -1,0 +1,18 @@
+{
+ "mbid": "4757dca4-6c26-35ae-b271-24ed9ca6ea4f",
+ "title": "Four-Calendar Café",
+ "year": "1993",
+ "genres": {
+  "blues": 1,
+  "downtempo": 1,
+  "dream pop": 2,
+  "electronic": 1,
+  "ethereal wave": 3,
+  "jangle pop": 2,
+  "pop": 1,
+  "rock": 3,
+  "shoegaze": 1
+ },
+ "rating": 3,
+ "votes": 5
+}

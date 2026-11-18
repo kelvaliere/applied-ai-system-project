@@ -1,0 +1,15 @@
+{
+ "mbid": "7cda193a-7284-309a-bc05-df04de833030",
+ "title": "Simple Things",
+ "year": "2001",
+ "genres": {
+  "ambient": 1,
+  "ambient pop": 2,
+  "deep house": 1,
+  "downtempo": 6,
+  "electronic": 3,
+  "trip hop": 5
+ },
+ "rating": 4.2,
+ "votes": 7
+}

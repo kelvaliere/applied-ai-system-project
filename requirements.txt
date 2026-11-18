@@ -1,3 +1,6 @@
+numpy
+requests
+anthropic
+streamlit
 pandas
 pytest
-streamlit

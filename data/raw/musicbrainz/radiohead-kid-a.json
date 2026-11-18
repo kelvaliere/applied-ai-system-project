@@ -1,0 +1,24 @@
+{
+ "mbid": "e75c0549-ad55-39e3-8025-c72c5d4a3c5d",
+ "title": "Kid A",
+ "year": "2000",
+ "genres": {
+  "alternative rock": 6,
+  "ambient": 2,
+  "ambient pop": 1,
+  "art pop": 2,
+  "art rock": 11,
+  "avant-garde": 3,
+  "electronic": 14,
+  "electronica": 2,
+  "experimental rock": 10,
+  "idm": 2,
+  "indie rock": 1,
+  "indietronica": 1,
+  "leftfield": 1,
+  "post-rock": 3,
+  "rock": 3
+ },
+ "rating": 4.5,
+ "votes": 72
+}

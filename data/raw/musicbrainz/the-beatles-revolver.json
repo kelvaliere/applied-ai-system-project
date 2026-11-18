@@ -1,0 +1,16 @@
+{
+ "mbid": "72d15666-99a7-321e-b1f3-a3f8c09dff9f",
+ "title": "Revolver",
+ "year": "1966",
+ "genres": {
+  "beat music": 3,
+  "pop": 10,
+  "pop rock": 7,
+  "psychedelic": 4,
+  "psychedelic pop": 2,
+  "psychedelic rock": 11,
+  "rock": 18
+ },
+ "rating": 4.6,
+ "votes": 61
+}

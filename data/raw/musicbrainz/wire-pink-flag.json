@@ -1,0 +1,14 @@
+{
+ "mbid": "9facb8b5-4b02-3f28-9f4a-61cb9b8fd7aa",
+ "title": "Pink Flag",
+ "year": "1977",
+ "genres": {
+  "art punk": 3,
+  "art rock": 1,
+  "post-punk": 4,
+  "punk": 2,
+  "punk rock": 7
+ },
+ "rating": 4.25,
+ "votes": 8
+}

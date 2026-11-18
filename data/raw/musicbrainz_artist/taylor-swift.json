@@ -1,0 +1,22 @@
+{
+ "name": "Taylor Swift",
+ "genres": {
+  "alternative pop": 3,
+  "americana": 1,
+  "chamber pop": 2,
+  "contemporary country": 7,
+  "country": 28,
+  "country pop": 26,
+  "dance": 1,
+  "dance-pop": 1,
+  "electropop": 3,
+  "folk pop": 2,
+  "indie folk": 4,
+  "indie pop": 2,
+  "pop": 42,
+  "pop rock": 9,
+  "singer-songwriter": 12,
+  "synth-pop": 6,
+  "teen pop": 2
+ }
+}

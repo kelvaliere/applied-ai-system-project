@@ -1,0 +1,10 @@
+{
+ "name": "The Neighbourhood",
+ "genres": {
+  "alternative rock": 4,
+  "indie pop": 5,
+  "indie rock": 2,
+  "pop": 1,
+  "rock": 1
+ }
+}

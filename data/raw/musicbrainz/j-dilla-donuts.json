@@ -1,0 +1,13 @@
+{
+ "mbid": "6b78c33a-64c4-3472-99e9-be45a392acb4",
+ "title": "Donuts",
+ "year": "2006",
+ "genres": {
+  "hip hop": 3,
+  "instrumental": 3,
+  "instrumental hip hop": 4,
+  "plunderphonics": 1
+ },
+ "rating": 4.6,
+ "votes": 10
+}

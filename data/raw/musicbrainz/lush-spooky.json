@@ -1,0 +1,16 @@
+{
+ "mbid": "11cdf8e5-6ff5-351c-82ab-7971ae8b468b",
+ "title": "Spooky",
+ "year": "1992",
+ "genres": {
+  "alternative rock": 1,
+  "dream pop": 1,
+  "ethereal wave": 1,
+  "gothic rock": 1,
+  "indie rock": 1,
+  "rock": 1,
+  "shoegaze": 3
+ },
+ "rating": 3.5,
+ "votes": 6
+}

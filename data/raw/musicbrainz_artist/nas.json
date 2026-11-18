@@ -1,0 +1,17 @@
+{
+ "name": "Nas",
+ "genres": {
+  "boom bap": 5,
+  "deep soul": 1,
+  "east coast hip hop": 7,
+  "gangsta rap": 1,
+  "hip hop": 10,
+  "hip hop soul": 1,
+  "jazz rap": 1,
+  "pop": 1,
+  "pop soul": 1,
+  "r&b": 1,
+  "smooth soul": 1,
+  "trap soul": 1
+ }
+}
